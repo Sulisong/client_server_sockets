@@ -5,7 +5,7 @@ repository: https://github.com/georges-ph/client_server_sockets
 issue_tracker: https://github.com/georges-ph/client_server_sockets/issues
 
 environment:
-  sdk: ^3.2.0
+  sdk: ^3.1.5
 
 dependencies:
   # path: ^1.8.0
